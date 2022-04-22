@@ -34,7 +34,7 @@ module.exports = {
     {
       resolve: `gatsby-source-drupal`,
       options: {
-        baseUrl: `http://drupal9.lndo.site/`,
+        baseUrl: `https://06dd-157-100-171-22.sa.ngrok.io/`,
         apiBase: `jsonapi`,
       },
     },
